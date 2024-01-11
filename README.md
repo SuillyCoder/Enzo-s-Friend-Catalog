@@ -7,8 +7,12 @@ This project was mostly Javascript heavy since I wanted to practice it even more
 
 This project involves a lot of dynamic interactivity such as dynamic element changing due to event handling, navigating systems, and even page navigation. 
 
+
 You can access the project (recently deployed) right over here: 
 https://suillycoder.github.io/Enzos-Friend-Catalog/
+
+
+
 
 In all honesty, I used a lot of Inner.HTML syntaxes for this because I was changing stuff a lot. 
 It was a good thing I learned that can then allow me to dynamically change the elements of a website whenever a user decides to do something. 
